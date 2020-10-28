@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.poi.PoiActivity">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.suomifi.palvelutietovaranto.ui.poi.PoiViewModel" />
+    </data>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="@dimen/bottom_sheet_padding"
+        android:layout_marginEnd="@dimen/bottom_sheet_padding"
+        android:background="@android:color/transparent"
+        android:visibility="@{viewModel.poisListVisibility}">
+
+        <TextView
+            android:id="@+id/text_poi_list_label"
+            style="@style/BottomSheetHeaderTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/bottom_sheet_header_min_height"
+            android:text="@string/please_choose_service_location" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_pois"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:scrollbars="vertical"
+            app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+            app:layout_constraintTop_toBottomOf="@+id/text_poi_list_label"
+            tools:listitem="@layout/item_poi" />
+
+    </android.support.constraint.ConstraintLayout>
+
+</layout>

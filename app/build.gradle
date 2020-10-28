@@ -1,0 +1,138 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.suomifi.palvelutietovaranto"
+        minSdkVersion 19
+        targetSdkVersion 28
+        versionCode 8
+        versionName "1.0.5"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dataBinding {
+        enabled true
+    }
+    flavorDimensions "location"
+    productFlavors {
+        realTimeLocation {
+            dimension "location"
+        }
+        fixedLocation {
+            dimension "location"
+        }
+    }
+    variantFilter { variant ->
+        def names = variant.flavors*.name
+        if (variant.buildType.name == "release" && names.contains("fixedLocation")) {
+            setIgnore(true)
+        }
+    }
+}
+
+repositories {
+    // required by Fabric
+    maven { url 'https://maven.fabric.io/public' }
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+androidExtensions {
+    // required by @Parcelize annotation
+    experimental = true
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'wikitudesdk', ext: 'aar')
+    implementation project(':proj4j'), project(':google-maps-bottomsheet'), project(':model'), project(":traceur")
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+    implementation "com.android.support:appcompat-v7:$supportLibraryVersion"
+    implementation "com.android.support:recyclerview-v7:$supportLibraryVersion"
+    implementation "com.android.support:support-vector-drawable:$supportLibraryVersion"
+    // required by bottom sheet
+    implementation "com.android.support:design:$supportLibraryVersion"
+    // settings
+    implementation "com.android.support:support-v4:$supportLibraryVersion"
+
+    implementation "com.android.support.constraint:constraint-layout:$constraintLayoutVersion"
+
+    // timber
+    implementation "com.jakewharton.timber:timber:$timberVersion"
+
+    // rxjava
+    implementation "io.reactivex.rxjava2:rxjava:$rxJavaVersion"
+    implementation "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
+
+    // retrofit
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofitVersion"
+    implementation "com.squareup.retrofit2:adapter-rxjava2:$retrofitVersion"
+    implementation "com.squareup.okhttp3:logging-interceptor:$loggingInterceptorVersion"
+
+    // view model
+    implementation 'android.arch.lifecycle:extensions:1.1.1'
+
+    // google play services
+    implementation "com.google.android.gms:play-services-location:$googlePlayServicesVersion"
+    implementation "com.google.android.gms:play-services-maps:$googlePlayServicesVersion"
+    // google map utils
+    implementation "com.google.maps.android:android-maps-utils:$mapsUtilsVersion"
+
+    // Android-ReactiveLocation
+    implementation "pl.charmas.android:android-reactive-location2:$reactiveLocationVersion"
+
+    // Fabric
+    implementation("com.crashlytics.sdk.android:crashlytics:$fabricVersion") {
+        transitive = true
+    }
+    implementation("com.crashlytics.sdk.android:answers:$answersVersion") {
+        transitive = true
+    }
+
+    // rx preferences
+    implementation "com.f2prateek.rx.preferences2:rx-preferences:$rxPreferencesVersion"
+
+    // koin
+    implementation "org.koin:koin-android:$koinVersion"
+    implementation "org.koin:koin-android-viewmodel:$koinVersion"
+
+    // multidex
+    implementation "com.android.support:multidex:$multidexVersion"
+
+    // tutorial screen
+    implementation "agency.tango.android:material-intro-screen:$introScreenVersion"
+
+    // FAB
+    implementation "com.github.clans:fab:$customFabVersion"
+
+    // stetho
+    implementation "com.facebook.stetho:stetho:$stethoVersion"
+
+    // room
+    implementation "android.arch.persistence.room:runtime:$roomVersion"
+    kapt "android.arch.persistence.room:compiler:$roomVersion"
+    implementation "android.arch.persistence.room:rxjava2:$roomVersion"
+
+    // floating search view
+    implementation "com.github.arimorty:floatingsearchview:$floatingSearchViewVersion"
+
+    testImplementation "junit:junit:$junitVersion"
+    androidTestImplementation "com.android.support.test:runner:$testRunnerVersion"
+    androidTestImplementation "com.android.support.test.espresso:espresso-core:$espressoVersion"
+}

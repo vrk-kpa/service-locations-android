@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Service Locations</string>
+
+    <!-- Common strings -->
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Errors -->
+    <string name="error_loading_ar_experience">Could not load AR experience.</string>
+    <string name="error_title_sorry">We\'re sorry!</string>
+    <string name="error_unsupported_device">This device is unsupported.</string>
+    <string name="error_google_services_unavailable">Google Play services are required to start the app.</string>
+    <string name="error_no_app_found">No app found to handle this action.</string>
+
+    <!-- Service Location details -->
+    <string name="bottom_sheet_action_call">CALL</string>
+    <string name="bottom_sheet_action_e_mail">E-MAIL</string>
+    <string name="bottom_sheet_action_web">WEB</string>
+    <string name="bottom_sheet_action_directions">DIRECTIONS</string>
+    <string name="bottom_sheet_more">More about this place</string>
+    <string name="bottom_sheet_monday">Monday</string>
+    <string name="bottom_sheet_tuesday">Tuesday</string>
+    <string name="bottom_sheet_wednesday">Wednesday</string>
+    <string name="bottom_sheet_thursday">Thursday</string>
+    <string name="bottom_sheet_friday">Friday</string>
+    <string name="bottom_sheet_saturday">Saturday</string>
+    <string name="bottom_sheet_sunday">Sunday</string>
+    <string name="bottom_sheet_closed">Closed</string>
+    <string name="bottom_sheet_accessibility_information">Accessibility information:</string>
+
+    <!-- Loading Service Locations -->
+    <string name="loading_service_locations">Loading service locations…</string>
+    <string name="loading_service_locations_error">Error while loading service locations…</string>
+    <string name="loading_service_locations_location_error">Error while loading service locations. Please make sure that your device location is enabled.</string>
+    <string name="loading_service_locations_zoomed_out_error">Please zoom in to start loading service locations.</string>
+
+    <string name="please_choose_service_location">Please select a service location:</string>
+
+    <!--Settings-->
+    <string name="settings_activity_title">Settings</string>
+    <string name="pref_ar_radius_title">Service locations search radius (in meters)</string>
+    <string name="pref_ar_settings_category_title">AR settings</string>
+    <string name="pref_tutorial_settings_category_title">Tutorial</string>
+    <string name="pref_tutorial_title">Click here to launch the tutorial again</string>
+    <string name="pref_language_settings_title">Language</string>
+    <string-array name="pref_language_options">
+        <item>Finnish</item>
+        <item>Swedish</item>
+        <item>English</item>
+    </string-array>
+    <string name="pref_feedback">Feedback</string>
+
+    <!-- Tutorial -->
+    <string name="tutorial_screen_1_title">Welcome to Service Locations app!</string>
+    <string name="tutorial_screen_1_desc">Our app will let you find service locations around you. App uses information which is stored in to Suomi.fi Finnish Service Catalogue.</string>
+    <string name="tutorial_screen_2_title">We need your permissions!</string>
+    <string name="tutorial_screen_2_desc">We need your permission to use your device\'s location to be able to display service locations around you.\n\nCamera permission is required to display points of interest in the AR view.</string>
+    <string name="tutorial_screen_2_grant_permissions">Grant permissions</string>
+    <string name="tutorial_screen_2_error_permissions_required">Please grant needed permissions</string>
+    <string name="tutorial_screen_3_title">AR Experience</string>
+    <string name="tutorial_screen_3_desc">To enable AR Experience please rotate your phone horizontally.\n\nRemember to enable screen rotation in your device\'s system settings!</string>
+    <string name="grant_permissions">Grant necessary permissions</string>
+    <string name="tutorial_settings_required_title">Please grant necessary permissions</string>
+    <string name="tutorial_settings_required_message">To be able to use our app you need to grant necessary permission.\n\nThis can be done from the app settings screen.</string>
+    <string name="tutorial_settings_required_go_to_settings">Go to settings</string>
+
+    <!-- FAB -->
+    <string name="fab_button_search">Search</string>
+    <string name="fab_button_settings">Settings</string>
+    <string name="fab_button_show_parking_meters">Show parking meters</string>
+    <string name="fab_button_hide_parking_meters">Hide parking meters</string>
+
+    <!-- Search -->
+    <string name="search_error">Search feature is not available at the moment. Please check if Google Play Services are installed.</string>
+
+</resources>

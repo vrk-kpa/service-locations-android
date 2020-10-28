@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/view_peek"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_name"
+        style="@style/BottomSheetHeaderTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/background_bottom_sheet_more"
+        android:drawablePadding="@dimen/margin_small"
+        android:minHeight="@dimen/bottom_sheet_header_min_height"
+        android:paddingTop="@dimen/margin"
+        android:paddingBottom="@dimen/margin"
+        tools:text="Eduskuntatalo Eduskuntatalo Eduskuntatalo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/layout_actions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal">
+
+            <!-- not using drawableTop because of vectors -->
+            <LinearLayout
+                android:id="@+id/layout_action_phone"
+                style="@style/BottomSheetActionLayout"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/BottomSheetActionImage"
+                    android:contentDescription="@null"
+                    app:srcCompat="@drawable/ic_phone" />
+
+                <TextView
+                    style="@style/BottomSheetActionText"
+                    android:text="@string/bottom_sheet_action_call" />
+
+            </LinearLayout>
+
+            <!-- not using drawableTop because of vectors -->
+            <LinearLayout
+                android:id="@+id/layout_action_email"
+                style="@style/BottomSheetActionLayout"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/BottomSheetActionImage"
+                    android:contentDescription="@null"
+                    app:srcCompat="@drawable/ic_email" />
+
+                <TextView
+                    style="@style/BottomSheetActionText"
+                    android:text="@string/bottom_sheet_action_e_mail" />
+
+            </LinearLayout>
+
+            <!-- not using drawableTop because of vectors -->
+            <LinearLayout
+                android:id="@+id/layout_action_web"
+                style="@style/BottomSheetActionLayout"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/BottomSheetActionImage"
+                    android:contentDescription="@null"
+                    app:srcCompat="@drawable/ic_web" />
+
+                <TextView
+                    style="@style/BottomSheetActionText"
+                    android:text="@string/bottom_sheet_action_web" />
+
+            </LinearLayout>
+
+            <!-- not using drawableTop because of vectors -->
+            <LinearLayout
+                android:id="@+id/layout_action_directions"
+                style="@style/BottomSheetActionLayout"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/BottomSheetActionImage"
+                    android:contentDescription="@null"
+                    app:srcCompat="@drawable/ic_directions" />
+
+                <TextView
+                    style="@style/BottomSheetActionText"
+                    android:text="@string/bottom_sheet_action_directions" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view_divider_top"
+            style="@style/Divider"
+            android:layout_marginTop="8dp" />
+
+        <!-- not using drawableEnd because of vectors -->
+        <LinearLayout
+            android:id="@+id/layout_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="@string/bottom_sheet_more"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/image_more_chevron"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                app:srcCompat="@drawable/ic_chevron_right" />
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view_divider_bottom"
+            style="@style/Divider" />
+
+    </LinearLayout>
+
+</LinearLayout>

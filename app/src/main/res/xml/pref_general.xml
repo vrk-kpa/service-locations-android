@@ -1,0 +1,36 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_ar_settings_category_title">
+
+        <EditTextPreference
+            android:defaultValue="@string/pref_ar_radius_default_value"
+            android:inputType="numberDecimal"
+            android:key="pref_poi_radius"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_ar_radius_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_tutorial_settings_category_title">
+
+        <Preference android:title="@string/pref_tutorial_title">
+            <intent
+                android:targetClass="com.suomifi.palvelutietovaranto.ui.tutorial.TutorialActivity"
+                android:targetPackage="com.suomifi.palvelutietovaranto" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <ListPreference
+        android:entries="@array/pref_language_options"
+        android:entryValues="@array/pref_language_values"
+        android:key="pref_selected_language"
+        android:title="@string/pref_language_settings_title" />
+
+    <Preference
+        android:key="pref_feedback"
+        android:title="@string/pref_feedback" />
+
+</PreferenceScreen>

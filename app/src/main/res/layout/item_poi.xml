@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="poiDetails"
+            type="com.suomifi.palvelutietovaranto.domain.ptv.model.PoiDetails" />
+
+        <variable
+            name="callback"
+            type="com.suomifi.palvelutietovaranto.ui.poi.PoiItemClickedCallback" />
+
+        <variable
+            name="selectedLanguage"
+            type="com.suomifi.palvelutietovaranto.domain.localization.Language" />
+    </data>
+
+    <TextView
+        style="@style/BottomSheetHeaderTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:drawableStart="@{@drawable/ic_chevron_right}"
+        android:drawablePadding="8dp"
+        android:ellipsize="end"
+        android:focusable="true"
+        android:lines="1"
+        android:maxLines="1"
+        android:minHeight="@dimen/bottom_sheet_header_min_height"
+        android:onClick="@{() -> callback.onPoiClicked(poiDetails)}"
+        android:singleLine="true"
+        android:text="@{poiDetails.name(selectedLanguage)}"
+        android:textColor="@color/colorPrimaryText"
+        tools:text="Test" />
+
+</layout>

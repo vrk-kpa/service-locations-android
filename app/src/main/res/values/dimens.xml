@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+
+    <dimen name="fab_margin_bottom">16dp</dimen>
+    <dimen name="fab_margin_end">16dp</dimen>
+
+    <dimen name="bottom_sheet_corner_radius">16dp</dimen>
+    <dimen name="bottom_sheet_padding">0dp</dimen>
+    <dimen name="bottom_sheet_more_width">30dp</dimen>
+    <dimen name="bottom_sheet_more_height">3dp</dimen>
+    <dimen name="bottom_sheet_header_min_height">40dp</dimen>
+
+    <item name="guideline_start" type="dimen">0.2</item>
+    <item name="guideline_end" type="dimen">0.8</item>
+
+    <dimen name="marker_size">50dp</dimen>
+
+</resources>

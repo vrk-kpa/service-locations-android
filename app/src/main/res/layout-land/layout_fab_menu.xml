@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.suomifi.palvelutietovaranto.ui.poi.PoiViewModel" />
+    </data>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/fab_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/fab_margin_bottom"
+        android:paddingEnd="@dimen/fab_margin_end"
+        fab:menu_backgroundColor="#ccffffff"
+        fab:menu_colorNormal="@color/colorAccent"
+        fab:menu_colorPressed="@color/colorAccent"
+        fab:menu_labels_colorNormal="@color/colorAccent"
+        fab:menu_labels_colorPressed="@color/colorAccent"
+        fab:menu_labels_ellipsize="end"
+        fab:menu_labels_singleLine="true"
+        tools:ignore="RtlSymmetry">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fab_menu_button_parking_meters"
+            style="@style/FabButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{()-> viewModel.onToggleParkingMetersClicked()}"
+            android:src="@{@drawable/ic_parking}"
+            fab:fab_label="@string/fab_button_show_parking_meters"
+            fab:fab_size="mini" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fab_menu_button_settings"
+            style="@style/FabButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{()-> viewModel.onSettingsClicked()}"
+            android:src="@{@drawable/ic_settings}"
+            fab:fab_label="@string/fab_button_settings"
+            fab:fab_size="mini" />
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+</layout>

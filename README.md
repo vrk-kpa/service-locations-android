@@ -1,2 +1,3 @@
-# service-locations-android
-AR Android app that demonstrate the Service Catalogue
+Service Locations Android app
+
+License: MIT (see LICENSE.md file for details)

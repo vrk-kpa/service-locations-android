@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bottom_sheet_time_between" translatable="false">%1$s-%2$s</string>
+    <string name="error_device_not_supported_details" translatable="false">%1$s\n%2$s</string>
+
+    <!-- Values have to be the same as defined in com.suomifi.palvelutietovaranto.domain.localization.Language -->
+    <string-array name="pref_language_values">
+        <item>FI</item>
+        <item>SV</item>
+        <item>EN</item>
+    </string-array>
+
+    <string name="pref_ar_radius_default_value" translatable="false">300</string>
+
+</resources>

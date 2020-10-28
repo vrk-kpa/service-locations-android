@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin_end">48dp</dimen>
+    <dimen name="bottom_sheet_padding">48dp</dimen>
+
+    <item name="guideline_start" type="dimen">0.4</item>
+    <item name="guideline_end" type="dimen">0.6</item>
+
+</resources>

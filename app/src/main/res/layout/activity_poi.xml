@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.poi.PoiActivity">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.suomifi.palvelutietovaranto.ui.poi.PoiViewModel" />
+    </data>
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <include
+            layout="@layout/layout_fab_menu"
+            app:viewModel="@{viewModel}" />
+
+        <include layout="@layout/view_bottom_sheet" />
+
+        <include
+            layout="@layout/view_poi_list"
+            app:viewModel="@{viewModel}"
+            tools:visibility="gone" />
+
+        <include
+            layout="@layout/view_progress"
+            app:viewModel="@{viewModel}" />
+
+    </android.support.design.widget.CoordinatorLayout>
+
+</layout>

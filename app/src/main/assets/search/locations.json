@@ -1,0 +1,3114 @@
+{
+  "locations": [
+    {
+      "coordinates": {
+        "latitude": 61.167145977,
+        "longitude": 23.865888764
+      },
+      "translations": {
+        "fi": "Akaa",
+        "sv": "Akaa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.001273254,
+        "longitude": 23.817522812
+      },
+      "translations": {
+        "fi": "Alajärvi",
+        "sv": "Alajärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.166646246,
+        "longitude": 24.307213479
+      },
+      "translations": {
+        "fi": "Alavieska",
+        "sv": "Alavieska"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.586161997,
+        "longitude": 23.616600589
+      },
+      "translations": {
+        "fi": "Alavus",
+        "sv": "Alavus"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.172512361,
+        "longitude": 25.549142484
+      },
+      "translations": {
+        "fi": "Asikkala",
+        "sv": "Asikkala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.530210718,
+        "longitude": 25.598880612
+      },
+      "translations": {
+        "fi": "Askola",
+        "sv": "Askola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.646591846,
+        "longitude": 22.588991955
+      },
+      "translations": {
+        "fi": "Aura",
+        "sv": "Aura"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.412662338,
+        "longitude": 21.04371379
+      },
+      "translations": {
+        "fi": "Brändö",
+        "sv": "Brändö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.213612052,
+        "longitude": 19.613138657
+      },
+      "translations": {
+        "fi": "Eckerö",
+        "sv": "Eckerö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.089260323,
+        "longitude": 28.916904602
+      },
+      "translations": {
+        "fi": "Enonkoski",
+        "sv": "Enonkoski"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 68.385549758,
+        "longitude": 23.635307625
+      },
+      "translations": {
+        "fi": "Enontekiö",
+        "sv": "Enontekis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.206376371,
+        "longitude": 24.656728549
+      },
+      "translations": {
+        "fi": "Espoo",
+        "sv": "Esbo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.130003763,
+        "longitude": 22.135931764
+      },
+      "translations": {
+        "fi": "Eura",
+        "sv": "Eura"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.203547237,
+        "longitude": 21.73409618
+      },
+      "translations": {
+        "fi": "Eurajoki",
+        "sv": "Euraåminne"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.36690195,
+        "longitude": 23.47395314
+      },
+      "translations": {
+        "fi": "Evijärvi",
+        "sv": "Evijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.232262787,
+        "longitude": 19.992383189
+      },
+      "translations": {
+        "fi": "Finström",
+        "sv": "Finström"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.814791352,
+        "longitude": 23.6164073
+      },
+      "translations": {
+        "fi": "Forssa",
+        "sv": "Forssa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.011288651,
+        "longitude": 20.425481273
+      },
+      "translations": {
+        "fi": "Föglö",
+        "sv": "Föglö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.374272036,
+        "longitude": 19.845773869
+      },
+      "translations": {
+        "fi": "Geta",
+        "sv": "Geta"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.748514012,
+        "longitude": 25.319573489
+      },
+      "translations": {
+        "fi": "Haapajärvi",
+        "sv": "Haapajärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.136145958,
+        "longitude": 25.364407256
+      },
+      "translations": {
+        "fi": "Haapavesi",
+        "sv": "Haapavesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.008596339,
+        "longitude": 24.71112636
+      },
+      "translations": {
+        "fi": "Hailuoto",
+        "sv": "Karlö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.460145023,
+        "longitude": 24.171590087
+      },
+      "translations": {
+        "fi": "Halsua",
+        "sv": "Halsua"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.569688146,
+        "longitude": 27.197900579
+      },
+      "translations": {
+        "fi": "Hamina",
+        "sv": "Fredrikshamn"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.218344619,
+        "longitude": 19.73979193
+      },
+      "translations": {
+        "fi": "Hammarland",
+        "sv": "Hammarland"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.390301152,
+        "longitude": 26.436191366
+      },
+      "translations": {
+        "fi": "Hankasalmi",
+        "sv": "Hankasalmi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 59.82496853,
+        "longitude": 22.966840833
+      },
+      "translations": {
+        "fi": "Hanko",
+        "sv": "Hangö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.313701934,
+        "longitude": 22.141199348
+      },
+      "translations": {
+        "fi": "Harjavalta",
+        "sv": "Harjavalta"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.583533225,
+        "longitude": 26.019445705
+      },
+      "translations": {
+        "fi": "Hartola",
+        "sv": "Hartola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.055937939,
+        "longitude": 24.373688807
+      },
+      "translations": {
+        "fi": "Hattula",
+        "sv": "Hattula"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.788352094,
+        "longitude": 25.024743189
+      },
+      "translations": {
+        "fi": "Hausjärvi",
+        "sv": "Hausjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.2052356,
+        "longitude": 26.034841245
+      },
+      "translations": {
+        "fi": "Heinola",
+        "sv": "Heinola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.425985285,
+        "longitude": 28.629432602
+      },
+      "translations": {
+        "fi": "Heinävesi",
+        "sv": "Heinävesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.166640739,
+        "longitude": 24.943536799
+      },
+      "translations": {
+        "fi": "Helsinki",
+        "sv": "Helsingfors"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.643279652,
+        "longitude": 26.77736901
+      },
+      "translations": {
+        "fi": "Hirvensalmi",
+        "sv": "Hirvensalmi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.988606497,
+        "longitude": 25.512813466
+      },
+      "translations": {
+        "fi": "Hollola",
+        "sv": "Hollola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.993243973,
+        "longitude": 22.263525327
+      },
+      "translations": {
+        "fi": "Honkajoki",
+        "sv": "Honkajoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.177545666,
+        "longitude": 22.699443932
+      },
+      "translations": {
+        "fi": "Huittinen",
+        "sv": "Huittinen"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.922008168,
+        "longitude": 23.367072017
+      },
+      "translations": {
+        "fi": "Humppila",
+        "sv": "Humppila"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.677259967,
+        "longitude": 28.490705072
+      },
+      "translations": {
+        "fi": "Hyrynsalmi",
+        "sv": "Hyrynsalmi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.631016885,
+        "longitude": 24.861124319
+      },
+      "translations": {
+        "fi": "Hyvinkää",
+        "sv": "Hyvinge"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.640922455,
+        "longitude": 23.195714863
+      },
+      "translations": {
+        "fi": "Hämeenkyrö",
+        "sv": "Tavastkyro"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.996174323,
+        "longitude": 24.464424988
+      },
+      "translations": {
+        "fi": "Hämeenlinna",
+        "sv": "Tavastehus"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.322611335,
+        "longitude": 25.374983789
+      },
+      "translations": {
+        "fi": "Ii",
+        "sv": "Ii"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.559688616,
+        "longitude": 27.186983669
+      },
+      "translations": {
+        "fi": "Iisalmi",
+        "sv": "Idensalmi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.890805141,
+        "longitude": 26.33869215
+      },
+      "translations": {
+        "fi": "Iitti",
+        "sv": "Iitti"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.768251116,
+        "longitude": 23.074590925
+      },
+      "translations": {
+        "fi": "Ikaalinen",
+        "sv": "Ikalis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.733541324,
+        "longitude": 22.577475532
+      },
+      "translations": {
+        "fi": "Ilmajoki",
+        "sv": "Ilmajoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.672850851,
+        "longitude": 30.92679732
+      },
+      "translations": {
+        "fi": "Ilomantsi",
+        "sv": "Ilomants"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.171527381,
+        "longitude": 28.769224555
+      },
+      "translations": {
+        "fi": "Imatra",
+        "sv": "Imatra"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 68.905469786,
+        "longitude": 27.017602211
+      },
+      "translations": {
+        "fi": "Inari",
+        "sv": "Enare"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.044664081,
+        "longitude": 24.006574663
+      },
+      "translations": {
+        "fi": "Inkoo",
+        "sv": "Ingå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.115137142,
+        "longitude": 21.958478468
+      },
+      "translations": {
+        "fi": "Isojoki",
+        "sv": "Storå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.000103009,
+        "longitude": 22.318211434
+      },
+      "translations": {
+        "fi": "Isokyrö",
+        "sv": "Storkyro"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.9222222222222,
+        "longitude": 24.6472222222222
+      },
+      "translations": {
+        "fi": "Janakkala",
+        "sv": "Janakkala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.6,
+        "longitude": 29.7638888888889
+      },
+      "translations": {
+        "fi": "Joensuu",
+        "sv": "Joensuu"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.8041666666667,
+        "longitude": 23.4861111111111
+      },
+      "translations": {
+        "fi": "Jokioinen",
+        "sv": "Jockis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.1527777777778,
+        "longitude": 19.9486111111111
+      },
+      "translations": {
+        "fi": "Jomala",
+        "sv": "Jomala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.1791666666667,
+        "longitude": 27.8277777777778
+      },
+      "translations": {
+        "fi": "Joroinen",
+        "sv": "Jorois"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.7416666666667,
+        "longitude": 26.1152777777778
+      },
+      "translations": {
+        "fi": "Joutsa",
+        "sv": "Joutsa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.2416666666667,
+        "longitude": 29.2527777777778
+      },
+      "translations": {
+        "fi": "Juuka",
+        "sv": "Juuka"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.7972222222222,
+        "longitude": 24.3694444444444
+      },
+      "translations": {
+        "fi": "Juupajoki",
+        "sv": "Juupajoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8972222222222,
+        "longitude": 27.8569444444444
+      },
+      "translations": {
+        "fi": "Juva",
+        "sv": "Juva"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.2402777777778,
+        "longitude": 25.7444444444444
+      },
+      "translations": {
+        "fi": "Jyväskylä",
+        "sv": "Jyväskylä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8194444444444,
+        "longitude": 22.6916666666667
+      },
+      "translations": {
+        "fi": "Jämijärvi",
+        "sv": "Jämijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8638888888889,
+        "longitude": 25.1902777777778
+      },
+      "translations": {
+        "fi": "Jämsä",
+        "sv": "Jämsä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4722222222222,
+        "longitude": 25.0888888888889
+      },
+      "translations": {
+        "fi": "Järvenpää",
+        "sv": "Träskända"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4069444444444,
+        "longitude": 22.3722222222222
+      },
+      "translations": {
+        "fi": "Kaarina",
+        "sv": "S:t Karins"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.975,
+        "longitude": 28.4819444444444
+      },
+      "translations": {
+        "fi": "Kaavi",
+        "sv": "Kaavi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.225,
+        "longitude": 27.7333333333333
+      },
+      "translations": {
+        "fi": "Kajaani",
+        "sv": "Kajana"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.2597222222222,
+        "longitude": 23.9486111111111
+      },
+      "translations": {
+        "fi": "Kalajoki",
+        "sv": "Kalajoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.4638888888889,
+        "longitude": 24.0722222222222
+      },
+      "translations": {
+        "fi": "Kangasala",
+        "sv": "Kangasala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.9902777777778,
+        "longitude": 26.6430555555556
+      },
+      "translations": {
+        "fi": "Kangasniemi",
+        "sv": "Kangasniemi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8041666666667,
+        "longitude": 22.3944444444444
+      },
+      "translations": {
+        "fi": "Kankaanpää",
+        "sv": "Kankaanpää"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.9763888888889,
+        "longitude": 25.2625
+      },
+      "translations": {
+        "fi": "Kannonkoski",
+        "sv": "Kannonkoski"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.9,
+        "longitude": 23.9166666666667
+      },
+      "translations": {
+        "fi": "Kannus",
+        "sv": "Kannus"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.3069444444444,
+        "longitude": 21.7069444444444
+      },
+      "translations": {
+        "fi": "Karijoki",
+        "sv": "Bötom"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5347222222222,
+        "longitude": 24.2097222222222
+      },
+      "translations": {
+        "fi": "Karkkila",
+        "sv": "Högfors"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.8777777777778,
+        "longitude": 24.8027777777778
+      },
+      "translations": {
+        "fi": "Karstula",
+        "sv": "Karstula"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.1375,
+        "longitude": 22.5611111111111
+      },
+      "translations": {
+        "fi": "Karvia",
+        "sv": "Karvia"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.3847222222222,
+        "longitude": 21.2222222222222
+      },
+      "translations": {
+        "fi": "Kaskinen",
+        "sv": "Kaskö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.4236111111111,
+        "longitude": 22.1763888888889
+      },
+      "translations": {
+        "fi": "Kauhajoki",
+        "sv": "Kauhajoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.1013888888889,
+        "longitude": 23.0638888888889
+      },
+      "translations": {
+        "fi": "Kauhava",
+        "sv": "Kauhava"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.2097222222222,
+        "longitude": 24.7291666666667
+      },
+      "translations": {
+        "fi": "Kauniainen",
+        "sv": "Grankulla"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.5486111111111,
+        "longitude": 23.6902777777778
+      },
+      "translations": {
+        "fi": "Kaustinen",
+        "sv": "Kaustby"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.1791666666667,
+        "longitude": 26.35
+      },
+      "translations": {
+        "fi": "Keitele",
+        "sv": "Keitele"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.7361111111111,
+        "longitude": 24.5638888888889
+      },
+      "translations": {
+        "fi": "Kemi",
+        "sv": "Kemi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.7138888888889,
+        "longitude": 27.4333333333333
+      },
+      "translations": {
+        "fi": "Kemijärvi",
+        "sv": "Kemijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.8013888888889,
+        "longitude": 24.5444444444444
+      },
+      "translations": {
+        "fi": "Keminmaa",
+        "sv": "Keminmaa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.1638888888889,
+        "longitude": 22.7277777777778
+      },
+      "translations": {
+        "fi": "Kemiönsaari",
+        "sv": "Kimitoön"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.9125,
+        "longitude": 25.5083333333333
+      },
+      "translations": {
+        "fi": "Kempele",
+        "sv": "Kempele"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4027777777778,
+        "longitude": 25.1
+      },
+      "translations": {
+        "fi": "Kerava",
+        "sv": "Kervo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.2597222222222,
+        "longitude": 24.7069444444444
+      },
+      "translations": {
+        "fi": "Keuruu",
+        "sv": "Keuruu"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.2083333333333,
+        "longitude": 23.1791666666667
+      },
+      "translations": {
+        "fi": "Kihniö",
+        "sv": "Kihniö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.3666666666667,
+        "longitude": 24.9666666666667
+      },
+      "translations": {
+        "fi": "Kinnula",
+        "sv": "Kinnula"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.1236111111111,
+        "longitude": 24.4388888888889
+      },
+      "translations": {
+        "fi": "Kirkkonummi",
+        "sv": "Kyrkslätt"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.0986111111111,
+        "longitude": 30.1375
+      },
+      "translations": {
+        "fi": "Kitee",
+        "sv": "Kitee"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 67.6569444444444,
+        "longitude": 24.9083333333333
+      },
+      "translations": {
+        "fi": "Kittilä",
+        "sv": "Kittilä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.6527777777778,
+        "longitude": 26.6194444444444
+      },
+      "translations": {
+        "fi": "Kiuruvesi",
+        "sv": "Kiuruvesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.1194444444444,
+        "longitude": 25.075
+      },
+      "translations": {
+        "fi": "Kivijärvi",
+        "sv": "Kivijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.2555555555556,
+        "longitude": 22.3486111111111
+      },
+      "translations": {
+        "fi": "Kokemäki",
+        "sv": "Kumo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.8388888888889,
+        "longitude": 23.1319444444444
+      },
+      "translations": {
+        "fi": "Kokkola",
+        "sv": "Karleby"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 67.3305555555555,
+        "longitude": 23.7777777777778
+      },
+      "translations": {
+        "fi": "Kolari",
+        "sv": "Kolari"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.6277777777778,
+        "longitude": 26.2875
+      },
+      "translations": {
+        "fi": "Konnevesi",
+        "sv": "Konnevesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.7666666666667,
+        "longitude": 29.85
+      },
+      "translations": {
+        "fi": "Kontiolahti",
+        "sv": "Kontiolahti"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.7861111111111,
+        "longitude": 21.1847222222222
+      },
+      "translations": {
+        "fi": "Korsnäs",
+        "sv": "Korsnäs"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6541666666667,
+        "longitude": 23.1402777777778
+      },
+      "translations": {
+        "fi": "Koski Tl",
+        "sv": "Koski Tl"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4673055555556,
+        "longitude": 26.9458333333333
+      },
+      "translations": {
+        "fi": "Kotka",
+        "sv": "Kotka"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.8680555555556,
+        "longitude": 26.7041666666667
+      },
+      "translations": {
+        "fi": "Kouvola",
+        "sv": "Kouvola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.2736111111111,
+        "longitude": 21.3777777777778
+      },
+      "translations": {
+        "fi": "Kristiinankaupunki",
+        "sv": "Kristinestad"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.7277777777778,
+        "longitude": 23.0333333333333
+      },
+      "translations": {
+        "fi": "Kruunupyy",
+        "sv": "Kronoby"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.1277777777778,
+        "longitude": 29.5180555555556
+      },
+      "translations": {
+        "fi": "Kuhmo",
+        "sv": "Kuhmo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.5638888888889,
+        "longitude": 25.1819444444444
+      },
+      "translations": {
+        "fi": "Kuhmoinen",
+        "sv": "Kuhmoinen"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.2597222222222,
+        "longitude": 20.7791666666667
+      },
+      "translations": {
+        "fi": "Kumlinge",
+        "sv": "Kumlinge"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.8925,
+        "longitude": 27.6783333333333
+      },
+      "translations": {
+        "fi": "Kuopio",
+        "sv": "Kuopio"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.8055555555556,
+        "longitude": 23.5069444444444
+      },
+      "translations": {
+        "fi": "Kuortane",
+        "sv": "Kuortane"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.6166666666667,
+        "longitude": 22.4
+      },
+      "translations": {
+        "fi": "Kurikka",
+        "sv": "Kurikka"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5458333333333,
+        "longitude": 21.3583333333333
+      },
+      "translations": {
+        "fi": "Kustavi",
+        "sv": "Gustavs"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.9666666666667,
+        "longitude": 29.1833333333333
+      },
+      "translations": {
+        "fi": "Kuusamo",
+        "sv": "Kuusamo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.0430555555556,
+        "longitude": 24.5638888888889
+      },
+      "translations": {
+        "fi": "Kyyjärvi",
+        "sv": "Kyyjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.8680555555556,
+        "longitude": 25.2777777777778
+      },
+      "translations": {
+        "fi": "Kärkölä",
+        "sv": "Kärkölä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.9791666666667,
+        "longitude": 25.7583333333333
+      },
+      "translations": {
+        "fi": "Kärsämäki",
+        "sv": "Kärsämäki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 59.9208333333333,
+        "longitude": 20.9097222222222
+      },
+      "translations": {
+        "fi": "Kökar",
+        "sv": "Kökar"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.9833333333333,
+        "longitude": 25.6555555555556
+      },
+      "translations": {
+        "fi": "Lahti",
+        "sv": "Lahtis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.9763888888889,
+        "longitude": 22.0111111111111
+      },
+      "translations": {
+        "fi": "Laihia",
+        "sv": "Laihela"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.8791666666667,
+        "longitude": 21.6930555555556
+      },
+      "translations": {
+        "fi": "Laitila",
+        "sv": "Laitila"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6236111111111,
+        "longitude": 26.1972222222222
+      },
+      "translations": {
+        "fi": "Lapinjärvi",
+        "sv": "Lappträsk"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.3666666666667,
+        "longitude": 27.3919444444444
+      },
+      "translations": {
+        "fi": "Lapinlahti",
+        "sv": "Lapinlahti"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.2180555555556,
+        "longitude": 23.6291666666667
+      },
+      "translations": {
+        "fi": "Lappajärvi",
+        "sv": "Lappajärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.0666666666667,
+        "longitude": 28.1833333333333
+      },
+      "translations": {
+        "fi": "Lappeenranta",
+        "sv": "Villmanstrand"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.9708333333333,
+        "longitude": 23.0069444444444
+      },
+      "translations": {
+        "fi": "Lapua",
+        "sv": "Lappo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.4138888888889,
+        "longitude": 25.9541666666667
+      },
+      "translations": {
+        "fi": "Laukaa",
+        "sv": "Laukaa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.0611111111111,
+        "longitude": 27.8041666666667
+      },
+      "translations": {
+        "fi": "Lemi",
+        "sv": "Lemi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.0694444444444,
+        "longitude": 20.0861111111111
+      },
+      "translations": {
+        "fi": "Lemland",
+        "sv": "Lemland"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.3138888888889,
+        "longitude": 23.7527777777778
+      },
+      "translations": {
+        "fi": "Lempäälä",
+        "sv": "Lempäälä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.4916666666667,
+        "longitude": 27.7875
+      },
+      "translations": {
+        "fi": "Leppävirta",
+        "sv": "Leppävirta"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.525,
+        "longitude": 24.6666666666667
+      },
+      "translations": {
+        "fi": "Lestijärvi",
+        "sv": "Lestijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.3180555555556,
+        "longitude": 30.025
+      },
+      "translations": {
+        "fi": "Lieksa",
+        "sv": "Lieksa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5041666666667,
+        "longitude": 22.4583333333333
+      },
+      "translations": {
+        "fi": "Lieto",
+        "sv": "Lundo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.8097222222222,
+        "longitude": 25.4152777777778
+      },
+      "translations": {
+        "fi": "Liminka",
+        "sv": "Limingo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.5319444444444,
+        "longitude": 29.3847222222222
+      },
+      "translations": {
+        "fi": "Liperi",
+        "sv": "Liperi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.25,
+        "longitude": 24.0666666666667
+      },
+      "translations": {
+        "fi": "Lohja",
+        "sv": "Lojo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.8513888888889,
+        "longitude": 23.0583333333333
+      },
+      "translations": {
+        "fi": "Loimaa",
+        "sv": "Loimaa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.7180555555556,
+        "longitude": 24.4416666666667
+      },
+      "translations": {
+        "fi": "Loppi",
+        "sv": "Loppi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4569444444444,
+        "longitude": 26.225
+      },
+      "translations": {
+        "fi": "Loviisa",
+        "sv": "Lovisa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.7972222222222,
+        "longitude": 25.7027777777778
+      },
+      "translations": {
+        "fi": "Luhanka",
+        "sv": "Luhanka"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.8375,
+        "longitude": 25.1875
+      },
+      "translations": {
+        "fi": "Lumijoki",
+        "sv": "Lumijoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.1166666666667,
+        "longitude": 20.2583333333333
+      },
+      "translations": {
+        "fi": "Lumparland",
+        "sv": "Lumparland"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.7527777777778,
+        "longitude": 22.7472222222222
+      },
+      "translations": {
+        "fi": "Luoto",
+        "sv": "Larsmo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.9222222222222,
+        "longitude": 27.5625
+      },
+      "translations": {
+        "fi": "Luumäki",
+        "sv": "Luumäki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.9444444444444,
+        "longitude": 21.5472222222222
+      },
+      "translations": {
+        "fi": "Maalahti",
+        "sv": "Malax"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.0986111111111,
+        "longitude": 19.9444444444444
+      },
+      "translations": {
+        "fi": "Maarianhamina",
+        "sv": "Mariehamn"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5847222222222,
+        "longitude": 22.9
+      },
+      "translations": {
+        "fi": "Marttila",
+        "sv": "Marttila"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5708333333333,
+        "longitude": 22.1
+      },
+      "translations": {
+        "fi": "Masku",
+        "sv": "Masku"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.2972222222222,
+        "longitude": 24.4472222222222
+      },
+      "translations": {
+        "fi": "Merijärvi",
+        "sv": "Merijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8611111111111,
+        "longitude": 21.5083333333333
+      },
+      "translations": {
+        "fi": "Merikarvia",
+        "sv": "Sastmola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6708333333333,
+        "longitude": 27.7
+      },
+      "translations": {
+        "fi": "Miehikkälä",
+        "sv": "Miehikkälä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.6875,
+        "longitude": 27.2736111111111
+      },
+      "translations": {
+        "fi": "Mikkeli",
+        "sv": "S:t Michel"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.8069444444444,
+        "longitude": 25.9944444444444
+      },
+      "translations": {
+        "fi": "Muhos",
+        "sv": "Muhos"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.4083333333333,
+        "longitude": 24.7944444444444
+      },
+      "translations": {
+        "fi": "Multia",
+        "sv": "Multia"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 67.9569444444444,
+        "longitude": 23.6791666666667
+      },
+      "translations": {
+        "fi": "Muonio",
+        "sv": "Muonio"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.1125,
+        "longitude": 21.6777777777778
+      },
+      "translations": {
+        "fi": "Mustasaari",
+        "sv": "Korsholm"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.1291666666667,
+        "longitude": 25.6722222222222
+      },
+      "translations": {
+        "fi": "Muurame",
+        "sv": "Muurame"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6791666666667,
+        "longitude": 21.9888888888889
+      },
+      "translations": {
+        "fi": "Mynämäki",
+        "sv": "Mynämäki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6694444444444,
+        "longitude": 25.8527777777778
+      },
+      "translations": {
+        "fi": "Myrskylä",
+        "sv": "Mörskom"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6361111111111,
+        "longitude": 25.3194444444444
+      },
+      "translations": {
+        "fi": "Mäntsälä",
+        "sv": "Mäntsälä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.0333333333333,
+        "longitude": 24.6166666666667
+      },
+      "translations": {
+        "fi": "Mänttä-Vilppula",
+        "sv": "Mänttä-Filpula"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.4180555555556,
+        "longitude": 26.8791666666667
+      },
+      "translations": {
+        "fi": "Mäntyharju",
+        "sv": "Mäntyharju"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.467709253,
+        "longitude": 22.018224718
+      },
+      "translations": {
+        "fi": "Naantali",
+        "sv": "Nådendal"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.366902193,
+        "longitude": 22.004075891
+      },
+      "translations": {
+        "fi": "Nakkila",
+        "sv": "Nakkila"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.929637787,
+        "longitude": 24.953943761
+      },
+      "translations": {
+        "fi": "Nivala",
+        "sv": "Nivala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.478773769,
+        "longitude": 23.508499404
+      },
+      "translations": {
+        "fi": "Nokia",
+        "sv": "Nokia"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.599114832,
+        "longitude": 22.082180366
+      },
+      "translations": {
+        "fi": "Nousiainen",
+        "sv": "Nousis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.544266312,
+        "longitude": 29.132995571
+      },
+      "translations": {
+        "fi": "Nurmes",
+        "sv": "Nurmes"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.460806119,
+        "longitude": 24.807369231
+      },
+      "translations": {
+        "fi": "Nurmijärvi",
+        "sv": "Nurmijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.473293481,
+        "longitude": 21.336718308
+      },
+      "translations": {
+        "fi": "Närpiö",
+        "sv": "Närpes"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.80402214,
+        "longitude": 25.734288563
+      },
+      "translations": {
+        "fi": "Orimattila",
+        "sv": "Orimattila"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.856350309,
+        "longitude": 22.697411262
+      },
+      "translations": {
+        "fi": "Oripää",
+        "sv": "Oripää"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.677407146,
+        "longitude": 24.357389414
+      },
+      "translations": {
+        "fi": "Orivesi",
+        "sv": "Orivesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.266570168,
+        "longitude": 24.816231983
+      },
+      "translations": {
+        "fi": "Oulainen",
+        "sv": "Oulainen"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.013784817,
+        "longitude": 25.47209907
+      },
+      "translations": {
+        "fi": "Oulu",
+        "sv": "Uleåborg"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.726024464,
+        "longitude": 29.015423401
+      },
+      "translations": {
+        "fi": "Outokumpu",
+        "sv": "Outokumpu"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.35,
+        "longitude": 25.275
+      },
+      "translations": {
+        "fi": "Padasjoki",
+        "sv": "Padasjoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4569444444444,
+        "longitude": 22.6861111111111
+      },
+      "translations": {
+        "fi": "Paimio",
+        "sv": "Pemar"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.4069444444444,
+        "longitude": 27.8375
+      },
+      "translations": {
+        "fi": "Paltamo",
+        "sv": "Paltamo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.3,
+        "longitude": 22.3
+      },
+      "translations": {
+        "fi": "Parainen",
+        "sv": "Pargas"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.5555555555556,
+        "longitude": 29.5013888888889
+      },
+      "translations": {
+        "fi": "Parikkala",
+        "sv": "Parikkala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.0097222222222,
+        "longitude": 23.025
+      },
+      "translations": {
+        "fi": "Parkano",
+        "sv": "Parkano"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.6,
+        "longitude": 22.7944444444444
+      },
+      "translations": {
+        "fi": "Pedersören kunta",
+        "sv": "Pedersöre"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 67.1083333333333,
+        "longitude": 27.5152777777778
+      },
+      "translations": {
+        "fi": "Pelkosenniemi",
+        "sv": "Pelkosenniemi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.775,
+        "longitude": 23.9652777777778
+      },
+      "translations": {
+        "fi": "Pello",
+        "sv": "Pello"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.2152777777778,
+        "longitude": 24.4208333333333
+      },
+      "translations": {
+        "fi": "Perho",
+        "sv": "Perho"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.5027777777778,
+        "longitude": 26.4791666666667
+      },
+      "translations": {
+        "fi": "Pertunmaa",
+        "sv": "Pertunmaa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.2555555555556,
+        "longitude": 25.1833333333333
+      },
+      "translations": {
+        "fi": "Petäjävesi",
+        "sv": "Petäjävesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.3,
+        "longitude": 27.1583333333333
+      },
+      "translations": {
+        "fi": "Pieksämäki",
+        "sv": "Pieksämäki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.2319444444444,
+        "longitude": 26.7555555555556
+      },
+      "translations": {
+        "fi": "Pielavesi",
+        "sv": "Pielavesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.675,
+        "longitude": 22.7041666666667
+      },
+      "translations": {
+        "fi": "Pietarsaari",
+        "sv": "Jakobstad"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.3666666666667,
+        "longitude": 25.575
+      },
+      "translations": {
+        "fi": "Pihtipudas",
+        "sv": "Pihtipudas"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.4652777777778,
+        "longitude": 23.6430555555556
+      },
+      "translations": {
+        "fi": "Pirkkala",
+        "sv": "Birkala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.8541666666667,
+        "longitude": 29.3694444444444
+      },
+      "translations": {
+        "fi": "Polvijärvi",
+        "sv": "Polvijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.6930555555556,
+        "longitude": 22.0069444444444
+      },
+      "translations": {
+        "fi": "Pomarkku",
+        "sv": "Påmark"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.4847222222222,
+        "longitude": 21.7972222222222
+      },
+      "translations": {
+        "fi": "Pori",
+        "sv": "Björneborg"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4763888888889,
+        "longitude": 25.375
+      },
+      "translations": {
+        "fi": "Pornainen",
+        "sv": "Borgnäs"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.3930555555556,
+        "longitude": 25.6638888888889
+      },
+      "translations": {
+        "fi": "Porvoo",
+        "sv": "Borgå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.1111111111111,
+        "longitude": 28.1666666666667
+      },
+      "translations": {
+        "fi": "Posio",
+        "sv": "Posio"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.3597222222222,
+        "longitude": 26.9972222222222
+      },
+      "translations": {
+        "fi": "Pudasjärvi",
+        "sv": "Pudasjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6444444444444,
+        "longitude": 25.5819444444444
+      },
+      "translations": {
+        "fi": "Pukkila",
+        "sv": "Pukkila"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.1111111111111,
+        "longitude": 23.1055555555556
+      },
+      "translations": {
+        "fi": "Punkalaidun",
+        "sv": "Punkalaidun"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.8680555555555,
+        "longitude": 27.6708333333333
+      },
+      "translations": {
+        "fi": "Puolanka",
+        "sv": "Puolanka"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.5236111111111,
+        "longitude": 28.1777777777778
+      },
+      "translations": {
+        "fi": "Puumala",
+        "sv": "Puumala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4921388888889,
+        "longitude": 26.5430277777778
+      },
+      "translations": {
+        "fi": "Pyhtää",
+        "sv": "Pyttis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.4638888888889,
+        "longitude": 24.2583333333333
+      },
+      "translations": {
+        "fi": "Pyhäjoki",
+        "sv": "Pyhäjoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.6819444444444,
+        "longitude": 25.9777777777778
+      },
+      "translations": {
+        "fi": "Pyhäjärvi",
+        "sv": "Pyhäjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.0972222222222,
+        "longitude": 26.3305555555556
+      },
+      "translations": {
+        "fi": "Pyhäntä",
+        "sv": "Pyhäntä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.95,
+        "longitude": 21.4444444444444
+      },
+      "translations": {
+        "fi": "Pyhäranta",
+        "sv": "Pyhäranta"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.3388888888889,
+        "longitude": 24.2680555555556
+      },
+      "translations": {
+        "fi": "Pälkäne",
+        "sv": "Pälkäne"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.7180555555556,
+        "longitude": 22.6027777777778
+      },
+      "translations": {
+        "fi": "Pöytyä",
+        "sv": "Pöytyä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.6847222222222,
+        "longitude": 24.4791666666667
+      },
+      "translations": {
+        "fi": "Raahe",
+        "sv": "Brahestad"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 59.975,
+        "longitude": 23.4361111111111
+      },
+      "translations": {
+        "fi": "Raasepori",
+        "sv": "Raseborg"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4861111111111,
+        "longitude": 22.1694444444444
+      },
+      "translations": {
+        "fi": "Raisio",
+        "sv": "Reso"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.0666666666667,
+        "longitude": 28.3
+      },
+      "translations": {
+        "fi": "Rantasalmi",
+        "sv": "Rantasalmi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.9291666666667,
+        "longitude": 26.5166666666667
+      },
+      "translations": {
+        "fi": "Ranua",
+        "sv": "Ranua"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.1291666666667,
+        "longitude": 21.5055555555556
+      },
+      "translations": {
+        "fi": "Rauma",
+        "sv": "Raumo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.6222222222222,
+        "longitude": 26.8333333333333
+      },
+      "translations": {
+        "fi": "Rautalampi",
+        "sv": "Rautalampi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.4944444444444,
+        "longitude": 28.2986111111111
+      },
+      "translations": {
+        "fi": "Rautavaara",
+        "sv": "Rautavaara"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.4333333333333,
+        "longitude": 29.3555555555556
+      },
+      "translations": {
+        "fi": "Rautjärvi",
+        "sv": "Rautjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.6055555555556,
+        "longitude": 24.9319444444444
+      },
+      "translations": {
+        "fi": "Reisjärvi",
+        "sv": "Reisjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.7388888888889,
+        "longitude": 24.7722222222222
+      },
+      "translations": {
+        "fi": "Riihimäki",
+        "sv": "Riihimäki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.5055555555556,
+        "longitude": 28.2138888888889
+      },
+      "translations": {
+        "fi": "Ristijärvi",
+        "sv": "Ristijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.5013888888889,
+        "longitude": 25.7347222222222
+      },
+      "translations": {
+        "fi": "Rovaniemi",
+        "sv": "Rovaniemi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.2916666666667,
+        "longitude": 28.8194444444444
+      },
+      "translations": {
+        "fi": "Ruokolahti",
+        "sv": "Ruokolahti"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.9861111111111,
+        "longitude": 24.0680555555556
+      },
+      "translations": {
+        "fi": "Ruovesi",
+        "sv": "Ruovesi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5416666666667,
+        "longitude": 22.2222222222222
+      },
+      "translations": {
+        "fi": "Rusko",
+        "sv": "Rusko"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.3125,
+        "longitude": 29.6236111111111
+      },
+      "translations": {
+        "fi": "Rääkkylä",
+        "sv": "Rääkkylä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.7055555555556,
+        "longitude": 25.2569444444444
+      },
+      "translations": {
+        "fi": "Saarijärvi",
+        "sv": "Saarijärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.8333333333333,
+        "longitude": 28.6666666666667
+      },
+      "translations": {
+        "fi": "Salla",
+        "sv": "Salla"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.3861111111111,
+        "longitude": 23.125
+      },
+      "translations": {
+        "fi": "Salo",
+        "sv": "Salo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.275,
+        "longitude": 20.0611111111111
+      },
+      "translations": {
+        "fi": "Saltvik",
+        "sv": "Saltvik"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.3416666666667,
+        "longitude": 22.9083333333333
+      },
+      "translations": {
+        "fi": "Sastamala",
+        "sv": "Sastamala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.3430555555556,
+        "longitude": 22.6930555555556
+      },
+      "translations": {
+        "fi": "Sauvo",
+        "sv": "Sagu"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.1972222222222,
+        "longitude": 27.6833333333333
+      },
+      "translations": {
+        "fi": "Savitaipale",
+        "sv": "Savitaipale"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8680555555556,
+        "longitude": 28.8861111111111
+      },
+      "translations": {
+        "fi": "Savonlinna",
+        "sv": "Nyslott"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 67.2916666666667,
+        "longitude": 28.1611111111111
+      },
+      "translations": {
+        "fi": "Savukoski",
+        "sv": "Savukoski"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.7902777777778,
+        "longitude": 22.8402777777778
+      },
+      "translations": {
+        "fi": "Seinäjoki",
+        "sv": "Seinäjoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.9069444444444,
+        "longitude": 24.5166666666667
+      },
+      "translations": {
+        "fi": "Sievi",
+        "sv": "Sievi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.8763888888889,
+        "longitude": 21.8222222222222
+      },
+      "translations": {
+        "fi": "Siikainen",
+        "sv": "Siikainen"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.8138888888889,
+        "longitude": 24.7625
+      },
+      "translations": {
+        "fi": "Siikajoki",
+        "sv": "Siikajoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.2666666666667,
+        "longitude": 25.8666666666667
+      },
+      "translations": {
+        "fi": "Siikalatva",
+        "sv": "Siikalatva"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.075,
+        "longitude": 27.6597222222222
+      },
+      "translations": {
+        "fi": "Siilinjärvi",
+        "sv": "Siilinjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.6611111111111,
+        "longitude": 25.0666666666667
+      },
+      "translations": {
+        "fi": "Simo",
+        "sv": "Simo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.3763888888889,
+        "longitude": 25.2722222222222
+      },
+      "translations": {
+        "fi": "Sipoo",
+        "sv": "Sibbo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.1375,
+        "longitude": 24.2277777777778
+      },
+      "translations": {
+        "fi": "Siuntio",
+        "sv": "Sjundeå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 67.4166666666667,
+        "longitude": 26.5930555555556
+      },
+      "translations": {
+        "fi": "Sodankylä",
+        "sv": "Sodankylä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.8736111111111,
+        "longitude": 24.2055555555556
+      },
+      "translations": {
+        "fi": "Soini",
+        "sv": "Soini"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.6291666666667,
+        "longitude": 23.5138888888889
+      },
+      "translations": {
+        "fi": "Somero",
+        "sv": "Somero"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.6694444444444,
+        "longitude": 27.5222222222222
+      },
+      "translations": {
+        "fi": "Sonkajärvi",
+        "sv": "Sonkajärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.1305555555555,
+        "longitude": 28.3833333333333
+      },
+      "translations": {
+        "fi": "Sotkamo",
+        "sv": "Sotkamo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.1305555555556,
+        "longitude": 20.6666666666667
+      },
+      "translations": {
+        "fi": "Sottunga",
+        "sv": "Sottunga"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.7875,
+        "longitude": 28.3708333333333
+      },
+      "translations": {
+        "fi": "Sulkava",
+        "sv": "Sulkava"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.2236111111111,
+        "longitude": 20.1694444444444
+      },
+      "translations": {
+        "fi": "Sund",
+        "sv": "Sund"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.8847222222222,
+        "longitude": 28.9125
+      },
+      "translations": {
+        "fi": "Suomussalmi",
+        "sv": "Suomussalmi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.625,
+        "longitude": 27.1222222222222
+      },
+      "translations": {
+        "fi": "Suonenjoki",
+        "sv": "Suonenjoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.5027777777778,
+        "longitude": 25.6847222222222
+      },
+      "translations": {
+        "fi": "Sysmä",
+        "sv": "Sysmä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.0458333333333,
+        "longitude": 22.3458333333333
+      },
+      "translations": {
+        "fi": "Säkylä",
+        "sv": "Säkylä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.1597222222222,
+        "longitude": 28.0597222222222
+      },
+      "translations": {
+        "fi": "Taipalsaari",
+        "sv": "Taipalsaari"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.5763888888889,
+        "longitude": 28.2416666666667
+      },
+      "translations": {
+        "fi": "Taivalkoski",
+        "sv": "Taivalkoski"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.5625,
+        "longitude": 21.6097222222222
+      },
+      "translations": {
+        "fi": "Taivassalo",
+        "sv": "Tövsala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.8083333333333,
+        "longitude": 23.7597222222222
+      },
+      "translations": {
+        "fi": "Tammela",
+        "sv": "Tammela"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.4980555555556,
+        "longitude": 23.7608333333333
+      },
+      "translations": {
+        "fi": "Tampere",
+        "sv": "Tammerfors"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.9555555555556,
+        "longitude": 26.7555555555556
+      },
+      "translations": {
+        "fi": "Tervo",
+        "sv": "Tervo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.0888888888889,
+        "longitude": 24.8111111111111
+      },
+      "translations": {
+        "fi": "Tervola",
+        "sv": "Tervola"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.4861111111111,
+        "longitude": 21.7472222222222
+      },
+      "translations": {
+        "fi": "Teuva",
+        "sv": "Östermark"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.2263888888889,
+        "longitude": 30.3319444444444
+      },
+      "translations": {
+        "fi": "Tohmajärvi",
+        "sv": "Tohmajärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.7736111111111,
+        "longitude": 24.25
+      },
+      "translations": {
+        "fi": "Toholampi",
+        "sv": "Toholampi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.0972222222222,
+        "longitude": 26.0819444444444
+      },
+      "translations": {
+        "fi": "Toivakka",
+        "sv": "Toivakka"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 65.8486111111111,
+        "longitude": 24.1472222222222
+      },
+      "translations": {
+        "fi": "Tornio",
+        "sv": "Torneå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4513888888889,
+        "longitude": 22.2666666666667
+      },
+      "translations": {
+        "fi": "Turku",
+        "sv": "Åbo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.8111111111111,
+        "longitude": 28.4916666666667
+      },
+      "translations": {
+        "fi": "Tuusniemi",
+        "sv": "Tuusniemi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.4027777777778,
+        "longitude": 25.0291666666667
+      },
+      "translations": {
+        "fi": "Tuusula",
+        "sv": "Tusby"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.7638888888889,
+        "longitude": 25.6527777777778
+      },
+      "translations": {
+        "fi": "Tyrnävä",
+        "sv": "Tyrnävä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.432652934,
+        "longitude": 21.888033305
+      },
+      "translations": {
+        "fi": "Ulvila",
+        "sv": "Ulvsby"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.081131717,
+        "longitude": 23.549311266
+      },
+      "translations": {
+        "fi": "Urjala",
+        "sv": "Urjala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.76169558,
+        "longitude": 26.416907969
+      },
+      "translations": {
+        "fi": "Utajärvi",
+        "sv": "Utajärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 69.907828523,
+        "longitude": 27.026541275
+      },
+      "translations": {
+        "fi": "Utsjoki",
+        "sv": "Utsjoki"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.50080639,
+        "longitude": 25.438518873
+      },
+      "translations": {
+        "fi": "Uurainen",
+        "sv": "Uurainen"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.523125804,
+        "longitude": 22.530086009
+      },
+      "translations": {
+        "fi": "Uusikaarlepyy",
+        "sv": "Nykarleby"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.801207736,
+        "longitude": 21.407727115
+      },
+      "translations": {
+        "fi": "Uusikaupunki",
+        "sv": "Nystad"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.560942154,
+        "longitude": 26.840673725
+      },
+      "translations": {
+        "fi": "Vaala",
+        "sv": "Vaala"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.092588875,
+        "longitude": 21.615874122
+      },
+      "translations": {
+        "fi": "Vaasa",
+        "sv": "Vasa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.270053249,
+        "longitude": 24.029248502
+      },
+      "translations": {
+        "fi": "Valkeakoski",
+        "sv": "Valkeakoski"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.680306323,
+        "longitude": 28.813705084
+      },
+      "translations": {
+        "fi": "Valtimo",
+        "sv": "Valtimo"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.298133721,
+        "longitude": 25.006641332
+      },
+      "translations": {
+        "fi": "Vantaa",
+        "sv": "Vanda"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.313950665,
+        "longitude": 27.888587335
+      },
+      "translations": {
+        "fi": "Varkaus",
+        "sv": "Varkaus"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.685902746,
+        "longitude": 21.712512133
+      },
+      "translations": {
+        "fi": "Vehmaa",
+        "sv": "Vehmaa"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.93103044,
+        "longitude": 26.412849105
+      },
+      "translations": {
+        "fi": "Vesanto",
+        "sv": "Vesanto"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.305583862,
+        "longitude": 23.627636445
+      },
+      "translations": {
+        "fi": "Vesilahti",
+        "sv": "Vesilahti"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.475287314,
+        "longitude": 23.78862512
+      },
+      "translations": {
+        "fi": "Veteli",
+        "sv": "Vetil"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.744069514,
+        "longitude": 27.005160452
+      },
+      "translations": {
+        "fi": "Vieremä",
+        "sv": "Vieremä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.416791924,
+        "longitude": 24.319858395
+      },
+      "translations": {
+        "fi": "Vihti",
+        "sv": "Vichtis"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.082792009,
+        "longitude": 25.855167908
+      },
+      "translations": {
+        "fi": "Viitasaari",
+        "sv": "Viitasaari"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.161927977,
+        "longitude": 23.820600738
+      },
+      "translations": {
+        "fi": "Vimpeli",
+        "sv": "Vimpeli"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.582071101,
+        "longitude": 27.708871595
+      },
+      "translations": {
+        "fi": "Virolahti",
+        "sv": "Virolahti"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.23848456,
+        "longitude": 23.773747693
+      },
+      "translations": {
+        "fi": "Virrat",
+        "sv": "Virdois"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.244351018,
+        "longitude": 20.375338092
+      },
+      "translations": {
+        "fi": "Vårdö",
+        "sv": "Vårdö"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 63.132068002,
+        "longitude": 22.252456379
+      },
+      "translations": {
+        "fi": "Vöyri",
+        "sv": "Vörå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 66.323044983,
+        "longitude": 23.673012317
+      },
+      "translations": {
+        "fi": "Ylitornio",
+        "sv": "Övertorneå"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 64.072284496,
+        "longitude": 24.533690188
+      },
+      "translations": {
+        "fi": "Ylivieska",
+        "sv": "Ylivieska"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 61.55715602,
+        "longitude": 23.596580124
+      },
+      "translations": {
+        "fi": "Ylöjärvi",
+        "sv": "Ylöjärvi"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 60.805227741,
+        "longitude": 23.272438379
+      },
+      "translations": {
+        "fi": "Ypäjä",
+        "sv": "Ypäjä"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.55285929,
+        "longitude": 24.075018434
+      },
+      "translations": {
+        "fi": "Ähtäri",
+        "sv": "Etseri"
+      }
+    },
+    {
+      "coordinates": {
+        "latitude": 62.603307432,
+        "longitude": 25.72483135
+      },
+      "translations": {
+        "fi": "Äänekoski",
+        "sv": "Äänekoski"
+      }
+    }
+  ]
+}

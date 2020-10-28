@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:paddingBottom="8dp"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="0dp">
+
+    <!-- not using drawableStart because of vectors -->
+    <LinearLayout
+        android:id="@+id/layout_more_location"
+        style="@style/BottomSheetMoreLayout"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            style="@style/BottomSheetMoreImage"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/ic_map_marker" />
+
+        <TextView
+            android:id="@+id/text_more_location"
+            style="@style/BottomSheetMoreText"
+            tools:text="Mannerheimintie 30" />
+
+    </LinearLayout>
+
+    <!-- not using drawableStart because of vectors -->
+    <LinearLayout
+        android:id="@+id/layout_more_phone"
+        style="@style/BottomSheetMoreLayout"
+        app:layout_constraintTop_toBottomOf="@+id/layout_more_location"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            style="@style/BottomSheetMoreImage"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/ic_phone" />
+
+        <TextView
+            android:id="@+id/text_more_phone"
+            style="@style/BottomSheetMoreText"
+            tools:text="+358 9 4321" />
+
+    </LinearLayout>
+
+    <!-- not using drawableStart because of vectors -->
+    <LinearLayout
+        android:id="@+id/layout_more_email"
+        style="@style/BottomSheetMoreLayout"
+        app:layout_constraintTop_toBottomOf="@+id/layout_more_phone"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            style="@style/BottomSheetMoreImage"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/ic_email" />
+
+        <TextView
+            android:id="@+id/text_more_email"
+            style="@style/BottomSheetMoreText"
+            tools:text="int.dep@parliament.fi" />
+
+    </LinearLayout>
+
+    <!-- not using drawableStart because of vectors -->
+    <LinearLayout
+        android:id="@+id/layout_more_web"
+        style="@style/BottomSheetMoreLayout"
+        app:layout_constraintTop_toBottomOf="@+id/layout_more_email"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            style="@style/BottomSheetMoreImage"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/ic_web" />
+
+        <TextView
+            android:id="@+id/text_more_web"
+            style="@style/BottomSheetMoreText"
+            tools:text="https://www.eduskunta.fi/fi/Sivut/default.aspx" />
+
+    </LinearLayout>
+
+    <!-- not using drawableStart because of vectors -->
+    <LinearLayout
+        android:id="@+id/layout_more_opening_hours"
+        style="@style/BottomSheetMoreLayout"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/layout_more_web"
+        tools:ignore="UseCompoundDrawables">
+
+        <ImageView
+            style="@style/BottomSheetMoreImage"
+            android:contentDescription="@null"
+            app:srcCompat="@drawable/ic_opening_hours" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_monday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_monday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_monday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_tuesday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_tuesday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_tuesday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_wednesday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_wednesday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_wednesday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_thursday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_thursday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_thursday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_friday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_friday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_friday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_saturday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_saturday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_saturday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_sunday_label"
+                    style="@style/BottomSheetMoreText"
+                    android:layout_width="100dp"
+                    android:text="@string/bottom_sheet_sunday" />
+
+                <TextView
+                    android:id="@+id/text_more_opening_hours_sunday"
+                    style="@style/BottomSheetMoreText"
+                    tools:text="8:00 AM-6:00 PM" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- not using drawableStart because of vectors -->
+    <LinearLayout
+        android:id="@+id/layout_more_accessibility"
+        style="@style/BottomSheetMoreLayout"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/layout_more_opening_hours"
+        tools:ignore="UseCompoundDrawables">
+
+        <LinearLayout
+            android:id="@+id/layout_more_accessibility_information"
+            style="@style/BottomSheetMoreLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/BottomSheetMoreImage"
+                android:contentDescription="@null"
+                app:srcCompat="@drawable/ic_accessibility" />
+
+            <TextView
+                style="@style/BottomSheetMoreText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/bottom_sheet_accessibility_information" />
+
+            <ImageView
+                android:id="@+id/image_accessibility_chevron"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                app:srcCompat="@drawable/ic_chevron_right" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/text_more_accessibility"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="4dp"
+            android:gravity="center_vertical|start"
+            android:paddingEnd="16dp"
+            android:paddingStart="16dp"
+            android:textSize="12sp"
+            android:visibility="gone"
+            tools:text="The route to the main entrance\n\nThe route to the entrance is smooth and sufficiently wide and illuminated and it uses movement-guiding surface material.\n\nThe main entrance\n\nThe entrance stands out clearly and is illuminated. There is a canopy above the entrance."
+            tools:visibility="visible" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_divider_1"
+        style="@style/Divider"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@id/layout_more_accessibility" />
+
+    <TextView
+        android:id="@+id/text_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textSize="12sp"
+        app:layout_constraintTop_toBottomOf="@+id/view_divider_1"
+        tools:text="Helsingin Töölönlahden puistoon on valmistunut taiteilija Antti Laitisen (s. 1975) väliaikainen teos Armour. Teos julkistettiin 1.11.2016.
+
+Puun haarniskan muotoinen teräsveistos luo paljon mielleyhtymiä luonnon ja ihmisen yhteiselon kysymyksiin ja sopii teemoiltaan hyvin kaupunkipuistoon. Yli viisi metriä korkea teos on sijoitettu puiston sisääntuloväylän kupeeseen, Töölönlahdenkadun ja Karamzininrannan risteyksessä olevalle pienelle kumpareelle.
+Antti Laitinen on rakentanut puuhaarniskan kiiltävästä teräspellistä olemassa olevan puun ympärille. Tämän jälkeen hän on purkanut haarniskan ja rakentanut sen uudelleen teräskehikon varaan. Tyhjänä ja puusta irrotettuna teos näyttää siltä kuin se olisi käytön jälkeen nostettu haarniskatelineelle säilöön." />
+
+    <View
+        android:id="@+id/view_divider_2"
+        style="@style/Divider"
+        app:layout_constraintTop_toBottomOf="@id/text_description" />
+
+</android.support.constraint.ConstraintLayout>

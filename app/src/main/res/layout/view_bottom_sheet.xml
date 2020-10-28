@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/bottom_sheet_padding"
+    android:layout_marginEnd="@dimen/bottom_sheet_padding"
+    android:background="@android:color/transparent"
+    app:behavior_content_layout="@layout/view_bottom_sheet_content"
+    app:behavior_header_layout="@layout/view_bottom_sheet_header"
+    app:behavior_hideable="true"
+    app:layout_behavior="com.github.reline.GoogleMapsBottomSheetBehavior" />
